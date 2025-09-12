@@ -1,6 +1,6 @@
 # Hi there, I'm Parsa Abadi
 
-## Neural Networks & Optimization Researcher
+## Software Engineer - Neural Networks & Optimization Researcher
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parsaabadi&label=Profile%20views&color=0e75b6&style=flat" alt="parsaabadi" />
