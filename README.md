@@ -15,12 +15,14 @@
 
 ## Education & Research
 
-**M.Sc. Thesis**: "HyperSolver: A Practical Unified Framework for Large-Scale Combinatorial Optimization" (under review at IEEE)
+**M.Sc. in Computer Science**, Western University (2023-2025)
+- Thesis: "HyperSolver: A Practical Unified Framework for Large-Scale Combinatorial Optimization" (under review at IEEE)
+
+**B.A.Sc. in Honours Computer Science**, McMaster University (2018-2022)
 
 **Research Interests**: Neural combinatorial optimization, graph neural networks, optimization algorithms, machine learning for computational problems
 
-## Publications
-
+**Publications**:
 - "HyperSolver: A Practical Unified Framework for Large-Scale Combinatorial Optimization" (under review at IEEE)
 - "OSTEO-AI: AI Models for Osteoarthritis and Osteoporosis Detection" published in URNCST Journal
 
