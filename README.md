@@ -23,7 +23,7 @@
 **Research Interests**: Neural combinatorial optimization, graph neural networks, optimization algorithms, machine learning for computational problems
 
 **Publications**:
-- "HyperSolver: A Practical Unified Framework for Large-Scale Combinatorial Optimization" (under review at IEEE)
+- "HyperSolver: A Practical Unified Framework for Large-Scale Combinatorial Optimization"
 - "OSTEO-AI: AI Models for Osteoarthritis and Osteoporosis Detection" published in URNCST Journal
 
 ## Connect with me
