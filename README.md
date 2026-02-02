@@ -16,7 +16,7 @@
 ## Education & Research
 
 **M.Sc. in Computer Science**, Western University (2023-2025)
-- Thesis: "HyperSolver: A Practical Unified Framework for Large-Scale Combinatorial Optimization" (under review at IEEE)
+- Thesis: "HyperSolver: A Practical Unified Framework for Large-Scale Combinatorial Optimization" 
 
 **B.A.Sc. in Honours Computer Science**, McMaster University (2018-2022)
 
